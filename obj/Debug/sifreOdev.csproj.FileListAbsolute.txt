@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\bin\Debug\sifreOdev.exe.config
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\bin\Debug\sifreOdev.exe
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\bin\Debug\sifreOdev.pdb
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\obj\Debug\sifreOdev.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\obj\Debug\sifreOdev.Form1.resources
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\obj\Debug\sifreOdev.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\obj\Debug\sifreOdev.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\obj\Debug\sifreOdev.exe
+C:\Users\Lenovo\source\repos\sifreOdev\sifreOdev\obj\Debug\sifreOdev.pdb
